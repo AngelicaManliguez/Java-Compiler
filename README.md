@@ -1,5 +1,5 @@
 # Compiler-Final-Project
 
-COMPILER APPLICATION USING NETBEANS APACHE
+COMPILER APPLICATION USING JAVA NETBEANS APACHE
 
 by Condada, Hanna | Manliguez, Angelica Mae | Merino, Ma. Yalaine
